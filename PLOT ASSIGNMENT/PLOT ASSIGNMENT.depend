@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695905706 source:d:\projects\plot assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
